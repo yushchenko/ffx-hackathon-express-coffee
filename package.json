@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "?",
+  "author": "me",
+
+  "dependencies": {
+    "express": "*"
+  },
+  "engines": { "node": ">= 0.5.0 < 0.7.0" }
+}
