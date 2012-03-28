@@ -1,3 +1,0 @@
-#!/bin/bash
-
-rsync -avz . viushchenko@119.15.69.247:/var/www/hackathon
